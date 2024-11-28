@@ -1,13 +1,14 @@
-.btn {
+.dark, 
+.bright {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.btn.left {
+.dark {
     background-color: black;
     color: white;
 }
 
-.btn.right {
+.bright {
     background-color: yellow;
 }
