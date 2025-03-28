@@ -42,7 +42,7 @@ body {
 .right-items {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
 }
 
 button {
@@ -63,5 +63,5 @@ ul {
   list-style-type: none;
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 16px;
 }
