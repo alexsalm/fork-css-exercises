@@ -18,7 +18,37 @@ img {
   padding: 32px;
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
+
+.barberry {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+  justify-content: center;
+}
+
+.chilli {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+  justify-content: center;
+}
+
+.pepper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+  justify-content: center;
+}
+
+.saffron {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+  justify-content: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
