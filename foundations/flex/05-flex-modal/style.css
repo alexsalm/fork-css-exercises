@@ -41,6 +41,10 @@ body {
   justify-content: center;
 }
 
+.text {
+  padding-bottom: 12px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
