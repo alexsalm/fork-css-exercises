@@ -24,6 +24,11 @@ body {
 }
 
 .header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-text {
   font-size: larger;
   font-weight: bold;
 }
