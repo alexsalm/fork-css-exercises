@@ -13,10 +13,6 @@ img {
   width: 600px;
 }
 
-.buttons {
-  margin-top: 16px;
-}
-
 button {
   font-family: Roboto, sans-serif;
   border: none;
@@ -54,6 +50,7 @@ li a {
   the header and the footer */
   justify-content: center;
   align-items: center;
+  gap: 16px;
 }
 
 .footer {
