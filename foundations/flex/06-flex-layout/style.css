@@ -30,6 +30,7 @@ input {
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 li a {
@@ -40,7 +41,8 @@ li a {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .content {
@@ -58,15 +60,11 @@ li a {
   justify-content: space-between;
   background-color: #eeeeee;
   margin-top: auto;
-  padding: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
-.left-links {
-  display: flex;
-  gap: 16px;
-  padding: 0;
-}
-
+.left-links, 
 .right-links {
   display: flex;
   gap: 16px;
