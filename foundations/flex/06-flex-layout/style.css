@@ -38,6 +38,7 @@ li a {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 12px;
 }
 
 .content {
@@ -54,6 +55,7 @@ li a {
   justify-content: space-between;
   background-color: #eeeeee;
   margin-top: auto;
+  padding: 12px;
 }
 
 .left-links {
