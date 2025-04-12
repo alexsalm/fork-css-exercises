@@ -13,11 +13,16 @@ img {
   width: 600px;
 }
 
+.buttons {
+  padding-top: 16px;
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
 }
 
 input {
