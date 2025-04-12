@@ -40,9 +40,13 @@ li a {
   justify-content: space-between;
 }
 
-content {
+.content {
+  display: flex;
+  flex-direction: column;
   flex: 1; /* content div takes up all the available space between
   the header and the footer */
+  justify-content: center;
+  align-items: center;
 }
 
 .footer {
