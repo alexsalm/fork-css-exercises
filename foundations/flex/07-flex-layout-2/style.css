@@ -33,12 +33,14 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  max-width: 1000px;
 }
 
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  display: flex;
 }
 
 li a {
