@@ -24,6 +24,17 @@ body {
   justify-content: center;
 }
 
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+.cards-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
