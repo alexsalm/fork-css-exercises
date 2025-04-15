@@ -12,6 +12,9 @@ body {
   color: white;
   font-size: 32px;
   font-weight: 900;
+  display: flex;
+  align-items: center;
+  padding-left: 16px;
 }
 
 .footer {
@@ -30,8 +33,10 @@ body {
 }
 
 .cards-section div {
-  height: 110%; /* making height of divs taller */
-  width: 300px; /* making width of divs wider */ 
+  width: 250px;
+  margin-left: 24px;
+  margin-top: 24px;
+  padding: 16px;
 }
 
 .cards-section {
@@ -43,6 +48,7 @@ body {
 
 .sidebar {
   min-width: 300px;
+  min-height: 710px;
   background: royalblue;
   box-sizing: border-box;
   display: flex;
