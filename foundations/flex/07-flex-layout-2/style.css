@@ -44,6 +44,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   max-width: 1000px;
+  padding: 48px;
 }
 
 .sidebar {
