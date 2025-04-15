@@ -29,6 +29,11 @@ body {
   flex-direction: row;
 }
 
+.cards-section div {
+  height: 110%; /* making height of divs taller */
+  width: 300px; /* making width of divs wider */ 
+}
+
 .cards-section {
   display: flex;
   flex-direction: row;
@@ -37,7 +42,7 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+  min-width: 300px;
   background: royalblue;
   box-sizing: border-box;
   display: flex;
